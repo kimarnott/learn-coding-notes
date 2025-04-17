@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "87ad5f8e17243ec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a3e5c94cd7e76c0",
+        "type": "tabs",
+        "dimension": 32.432432432432435,
+        "children": [
+          {
+            "id": "32efc6e546877a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coding"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4f0fef693b67152",
+        "type": "tabs",
+        "dimension": 67.56756756756756,
+        "children": [
+          {
+            "id": "ca573450511202f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 100 Days of Python/Day 75 - Google Trends Data (Resampling and Visualising Time Series).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 75 - Google Trends Data (Resampling and Visualising Time Series)"
+            }
+          },
+          {
+            "id": "9df7e0c647a3718a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 100 Days of Python/Day 70 - Git, Github and Version Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 70 - Git, Github and Version Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85c353447dbfc619",
+    "type": "split",
+    "children": [
+      {
+        "id": "001746ff7716bdac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260b36379178c87f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b88a7f21b75a81a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16054486e2def942",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0ab41fbed0a89ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad44ffe5a48018b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0383ba2cb9b09f63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 Days of Python/Generally Useful Things.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Generally Useful Things"
+            }
+          },
+          {
+            "id": "e39af5c48a0f823f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 70 - Git, Github and Version Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day 70 - Git, Github and Version Control"
+            }
+          },
+          {
+            "id": "43b3842c462f313f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3de1db70d5bc1a99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 70 - Git, Github and Version Control.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 70 - Git, Github and Version Control"
+            }
+          },
+          {
+            "id": "3e12fd1dba6c29fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95993fdc4a4e91c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Coding.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Coding"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9df7e0c647a3718a",
+  "lastOpenFiles": [
+    "Coding.md",
+    "1. 100 Days of Python/Day 70 - Git, Github and Version Control.md",
+    "1. 100 Days of Python/Day 75 - Google Trends Data (Resampling and Visualising Time Series).md",
+    "1. 100 Days of Python/Day 73 - Data Visualisation with Matplotlib (Programming Languages).md",
+    "1. 100 Days of Python/Day 74 - Aggregate & Merge Data with Pandas (Analyse the LEGO Dataset).md",
+    "1. 100 Days of Python/Day 72 - Data Exploration with Pandas (College Major v.s. Your Salary).md",
+    "1. Full-Stack Web Dev Bootcamp/Day 29 - Capstone Project (Use a Public API).md",
+    "1. Full-Stack Web Dev Bootcamp/Day 28 - APIs.md",
+    "1. Full-Stack Web Dev Bootcamp/Day 27 - Git, GitHub and Version Control.md",
+    "1. Full-Stack Web Dev Bootcamp/Day 26 - Capstone Project (Create a Blog web application).md",
+    "1. Full-Stack Web Dev Bootcamp/Day 25 - EJS.md",
+    "1. Full-Stack Web Dev Bootcamp/Day 10 - Grid.md",
+    "1. Full-Stack Web Dev Bootcamp/Day 5-8 - CSS.md",
+    "1. 100 Days of Python/Day 80 - The Tragic Discovery of Handwashing (t-Tests & Distributions).md",
+    "1. Full-Stack Web Dev Bootcamp/Day 14-15 - JavaScript ES6.md",
+    "1. Packages/Werkzeug.md",
+    "1. Packages/psycopg2.md",
+    "1. Packages/Pandas.md",
+    "1. Packages/Matplotlib.md",
+    "1. Packages/Jinja.md",
+    "1. Packages/gunicorn.md",
+    "1. Packages/Functools.md",
+    "1. Packages/Flask WTF.md",
+    "1. Packages/Flask SQLAlchemy.md",
+    "1. Packages/Axios.md",
+    "1. Packages/Body Parser.md",
+    "0. attachments/grid-cheatsheet.png",
+    "0. attachments/flexbox-cheatsheet.png",
+    "0. attachments/The Importance of Nesting.png",
+    "0. attachments/JS Object vs JSON.png",
+    "0. attachments/JS Object vs JSON.png.~tmp",
+    "attachments",
+    "customJS/navPY.js",
+    "customJS/navWD.js",
+    "customJS",
+    "scripts",
+    "New folder",
+    "nav.js",
+    "0. attachments/Box Model.png",
+    "0. attachments/HTML Tags.png",
+    "attachments/The Importance of Nesting.png.~tmp",
+    "attachments/Pasted image 20250408145927.png",
+    "attachments/Pasted image 20250408145905.png",
+    "attachments/Pasted image 20250408145742.png",
+    "attachments/Pasted image 20250408145726.png",
+    "1. Full-Stack Web Dev Bootcamp"
+  ]
+}

@@ -1,0 +1,129 @@
+/* https://docs.obsidian.md/Reference/CSS+variables/CSS+variables */
+
+body {
+  --link-color: #E65712;
+  --link-color-hover: #DFE612;
+  --link-decoration-hover: none;
+  --embed-border-start: unset;
+  --embed-padding: none;
+
+}
+
+img[alt*="left"] {
+  float: left;
+  clear: right;
+  margin-right: 1rem;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.internal-link {
+  /* --link-color: rgb(166, 138, 249); */
+  --link-color: #ECC1F2;
+  --link-decoration: none;
+}
+
+.markdown-embed-title,
+.markdown-embed .scene-navigation,
+.markdown-embed  hr
+ {
+  display: none;
+}
+
+.markdown-embed-link {
+  position: absolute;
+  top: -20px;
+  right: 0px;
+  color: #ECC1F2;
+}
+
+.markdown-embed-link:hover {
+  background: none;
+  color: #DFE612;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.is-collapsible > .callout-title {
+  cursor: pointer !important;
+}
+
+.callout.is-collapsed {
+  opacity: 0.75;
+}
+
+.callout:hover {
+  opacity: 1.0;
+}
+
+.callout-title {
+  font-size: 16px;
+  color: white;
+}
+
+.callout-content {
+  margin: 5px 10px -15px 0px;
+}
+
+.task-list-item {
+  color: grey
+}
+
+.task-list-item.is-checked[data-task="x"] {
+  text-decoration: none;
+  color: springgreen;
+}
+
+.scene-navigation span {
+  width: 100%;
+  display: flex;
+}
+
+.scene-navigation .nav {
+  display: inline-block;
+  flex-grow: 0;
+}
+
+.scene-navigation .next {
+  text-align: right;
+}
+
+.scene-navigation .this-file {
+  display: inline-block;
+  text-align: center;
+  color: rgb(116, 116, 116);
+}
+
+.content-page {
+  --file-line-width: 900px;
+}
+
+.content-page .table-view-table td:nth-child(1) {
+  width: 62px;
+  text-align: center;
+}
+
+.content-page .table-view-table tr:nth-child(even) {
+  background: linear-gradient(
+      90deg, 
+      var(--background-primary) 5%,
+      #201520 10%, 
+      var(--background-primary) 95%
+    );
+}
+
+.content-page .internal-link {
+  --link-color: #c689ce;
+}
+
+.content-page .table-view-table th {
+  border: none;
+  font-weight: normal;
+  position: relative;
+  left: -62px;
+  padding-bottom: 5px;
+}
+
+.hover-popover .inline-title {
+  display: block;
+}
