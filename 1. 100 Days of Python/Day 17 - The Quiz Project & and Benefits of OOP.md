@@ -4,7 +4,7 @@ tags:
   - python
 order: 17
 aliases:
-  - 17., Quiz Project & OOPs
+  - 17. Quiz Project & OOPs
 complete: false
 ---
 - [x] Concept
