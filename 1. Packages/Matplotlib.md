@@ -2,6 +2,7 @@
 tags:
   - python/package
   - python
+  - data/visualisation
 complete: true
 aliases:
   - matplotlib

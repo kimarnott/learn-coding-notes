@@ -2,6 +2,7 @@
 tags:
   - python/package
   - python
+  - data
 complete: true
 aliases:
   - pandas

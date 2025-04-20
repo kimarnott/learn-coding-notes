@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Coding"
             }
+          },
+          {
+            "id": "24823c9f22a122ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 100 Days of Python/Day 78 - Linear Regression and Data Visualisation with Seaborn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Day 78 - Linear Regression and Data Visualisation with Seaborn"
+            }
           }
         ]
       }
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ab41fbed0a89ca6",
@@ -198,13 +211,20 @@
   },
   "active": "32efc6e546877a3a",
   "lastOpenFiles": [
-    "1. 100 Days of Python/Day 41-42 - HTML.md",
+    "1. 100 Days of Python/Day 96 - Portfolio (HTTP Requests & API).md",
     "Coding.md",
+    "1. 100 Days of Python/Day 78 - Linear Regression and Data Visualisation with Seaborn.md",
+    "1. Packages/scikit-learn.md",
+    "0. attachments/Seaborn Linear Regression Plot.png",
+    "1. Packages/Seaborn.md",
+    "1. Packages/Plotly.md",
+    "1. Packages/Matplotlib.md",
+    "1. Packages/Pandas.md",
+    "1. 100 Days of Python/Day 41-42 - HTML.md",
     "1. 100 Days of Python/Day 17 - The Quiz Project & and Benefits of OOP.md",
     "1. 100 Days of Python/Day 77 - Computation with NumPy and N-Dimensional Arrays.md",
     "1. 100 Days of Python/Day 76 - Beautiful Plotly Charts & Analysing the Android App Store.md",
     "0. attachments/Noise Color.png",
-    "1. Packages/Plotly.md",
     "1. 100 Days of Python/Day 75 - Google Trends Data (Resampling and Visualising Time Series).md",
     "1. 100 Days of Python/Day 74 - Aggregate & Merge Data with Pandas (Analyse the LEGO Dataset).md",
     "1. 100 Days of Python/Day 70 - Git, Github and Version Control.md",
@@ -219,12 +239,6 @@
     "1. Full-Stack Web Dev Bootcamp/Day 5-8 - CSS.md",
     "1. 100 Days of Python/Day 80 - The Tragic Discovery of Handwashing (t-Tests & Distributions).md",
     "1. Full-Stack Web Dev Bootcamp/Day 14-15 - JavaScript ES6.md",
-    "1. Packages/Werkzeug.md",
-    "1. Packages/psycopg2.md",
-    "1. Packages/Pandas.md",
-    "1. Packages/Matplotlib.md",
-    "1. Packages/Jinja.md",
-    "1. Packages/gunicorn.md",
     "0. attachments/grid-cheatsheet.png",
     "0. attachments/flexbox-cheatsheet.png",
     "0. attachments/The Importance of Nesting.png",
@@ -242,7 +256,6 @@
     "attachments/The Importance of Nesting.png.~tmp",
     "attachments/Pasted image 20250408145927.png",
     "attachments/Pasted image 20250408145905.png",
-    "attachments/Pasted image 20250408145742.png",
     "1. Full-Stack Web Dev Bootcamp"
   ]
 }
