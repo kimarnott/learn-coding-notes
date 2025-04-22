@@ -8,34 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32efc6e546877a3a",
+            "id": "6d8decec67f66fd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "0f69bec5d2a40ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Coding.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Coding"
             }
-          },
-          {
-            "id": "24823c9f22a122ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 100 Days of Python/Day 78 - Linear Regression and Data Visualisation with Seaborn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Day 78 - Linear Regression and Data Visualisation with Seaborn"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.501522064209
   },
   "right": {
     "id": "0ab41fbed0a89ca6",
@@ -209,22 +208,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32efc6e546877a3a",
+  "active": "0f69bec5d2a40ab6",
   "lastOpenFiles": [
-    "1. 100 Days of Python/Day 96 - Portfolio (HTTP Requests & API).md",
+    "1. 100 Days of Python/Day 80 - The Tragic Discovery of Handwashing (t-Tests & Distributions).md",
     "Coding.md",
-    "1. 100 Days of Python/Day 78 - Linear Regression and Data Visualisation with Seaborn.md",
-    "1. Packages/scikit-learn.md",
-    "0. attachments/Seaborn Linear Regression Plot.png",
+    "1. Packages/Scipy.md",
+    "1. Packages/Matplotlib.md",
     "1. Packages/Seaborn.md",
     "1. Packages/Plotly.md",
-    "1. Packages/Matplotlib.md",
+    "1. Packages/Numpy.md",
     "1. Packages/Pandas.md",
+    "0. attachments/Day 80 - KDE Good.png",
+    "0. attachments/Day 80 - KDE Bad.png",
+    "0. attachments/Day 80 - Histogram of Monthly outcomes distribution.png",
+    "0. attachments/Day 80 - The Effect of Handwashing.png",
+    "0. attachments/Day 80 - Subsections of Line Chart.png",
+    "0. attachments/Day 80 - Proportion of Yearly Deaths per Clinic.png",
+    "0. attachments/Day 80 - Yearly Deaths By Clinic.png",
+    "0. attachments/Day 80 - Yearly Births by Clinic.png",
+    "1. 100 Days of Python/Day 79 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn.md",
+    "1. Full-Stack Web Dev Bootcamp/Day 27 - Git, GitHub and Version Control.md",
+    "0. attachments/Day 80 - Monthly Births and Deaths.png",
+    "0. attachments/Day 80 - Monthly Births and Deaths.png",
+    "1. 100 Days of Python/Day 78 - Linear Regression and Data Visualisation with Seaborn.md",
+    "1. 100 Days of Python/Day 96 - Portfolio (HTTP Requests & API).md",
+    "1. Packages/scikit-learn.md",
     "1. 100 Days of Python/Day 41-42 - HTML.md",
     "1. 100 Days of Python/Day 17 - The Quiz Project & and Benefits of OOP.md",
     "1. 100 Days of Python/Day 77 - Computation with NumPy and N-Dimensional Arrays.md",
     "1. 100 Days of Python/Day 76 - Beautiful Plotly Charts & Analysing the Android App Store.md",
-    "0. attachments/Noise Color.png",
     "1. 100 Days of Python/Day 75 - Google Trends Data (Resampling and Visualising Time Series).md",
     "1. 100 Days of Python/Day 74 - Aggregate & Merge Data with Pandas (Analyse the LEGO Dataset).md",
     "1. 100 Days of Python/Day 70 - Git, Github and Version Control.md",
@@ -232,17 +244,8 @@
     "1. 100 Days of Python/Day 72 - Data Exploration with Pandas (College Major v.s. Your Salary).md",
     "1. Full-Stack Web Dev Bootcamp/Day 29 - Capstone Project (Use a Public API).md",
     "1. Full-Stack Web Dev Bootcamp/Day 28 - APIs.md",
-    "1. Full-Stack Web Dev Bootcamp/Day 27 - Git, GitHub and Version Control.md",
     "1. Full-Stack Web Dev Bootcamp/Day 26 - Capstone Project (Create a Blog web application).md",
     "1. Full-Stack Web Dev Bootcamp/Day 25 - EJS.md",
-    "1. Full-Stack Web Dev Bootcamp/Day 10 - Grid.md",
-    "1. Full-Stack Web Dev Bootcamp/Day 5-8 - CSS.md",
-    "1. 100 Days of Python/Day 80 - The Tragic Discovery of Handwashing (t-Tests & Distributions).md",
-    "1. Full-Stack Web Dev Bootcamp/Day 14-15 - JavaScript ES6.md",
-    "0. attachments/grid-cheatsheet.png",
-    "0. attachments/flexbox-cheatsheet.png",
-    "0. attachments/The Importance of Nesting.png",
-    "0. attachments/JS Object vs JSON.png",
     "0. attachments/JS Object vs JSON.png.~tmp",
     "attachments",
     "customJS/navPY.js",
@@ -251,11 +254,7 @@
     "scripts",
     "New folder",
     "nav.js",
-    "0. attachments/Box Model.png",
-    "0. attachments/HTML Tags.png",
     "attachments/The Importance of Nesting.png.~tmp",
-    "attachments/Pasted image 20250408145927.png",
-    "attachments/Pasted image 20250408145905.png",
     "1. Full-Stack Web Dev Bootcamp"
   ]
 }
